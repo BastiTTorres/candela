@@ -72,8 +72,9 @@ export default function SobreNosotros() {
             >
               Candela nació en 2019 cuando Bastián Torres, armado con una
               laptop y demasiado acceso a Claude Code, le pidió a una IA que
-              le diseñara "la cafetería perfecta". La IA lo tomó demasiado
-              en serio. Bastián también. El resto es historia — y muy buen café.
+              le diseñara &ldquo;la cafetería perfecta&rdquo;. La IA lo tomó
+              demasiado en serio. Bastián también. El resto es historia — y
+              muy buen café.
             </motion.p>
 
             <motion.p
