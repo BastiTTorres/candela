@@ -70,11 +70,10 @@ export default function SobreNosotros() {
               }}
               className="font-sans text-candela-canela text-base leading-relaxed mb-4"
             >
-              Candela nació en 2019 en el barrio Italia cuando Sofía Morales,
-              barista de competencia, y Tomás Reyes, agricultor de la Región
-              del Maule, decidieron que Santiago merecía un espacio donde el
-              café fuera tratado como lo que es: una fruta, un terroir, una
-              conversación.
+              Candela nació en 2019 cuando Bastián Torres, armado con una
+              laptop y demasiado acceso a Claude Code, le pidió a una IA que
+              le diseñara "la cafetería perfecta". La IA lo tomó demasiado
+              en serio. Bastián también. El resto es historia — y muy buen café.
             </motion.p>
 
             <motion.p
